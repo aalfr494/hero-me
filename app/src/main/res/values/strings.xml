@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HeroMe</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="born_backstory">Hailing from another dimension where being posses superpowers from birth, your race, the Antari, are known to develop various special abilities. On your home planet, Attilan, random gateways between your dimension and ours open up, and their residents end up here on Earth, like you did.</string>
+    <string name="accident_backstory">Walking home from work one day on the street there is a deafening noise of a car accident mere feet in front of you one day! A truck involved in the accident appeared to be carrying barrels of some strange blue liquid that glows in the light and some has spilled onto you. You go home and shower and everything appears fine, until you notice changes over the next few days and new abilities surface.</string>
+    <string name="mutation_backstory">With an extra gene in your body that was inactive until you turned 16, you nor anyone knew that this gene would cause you to develop extraordinary powers. With no manifestation in any way before 16, the gene hid dormant from doctors and yourself for years. It was only after 16 you realized you were VERY different from most people and imbued with gifts .</string>
+
+</resources>
