@@ -1,0 +1,108 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:backgroundTint="#000"
+    tools:context="com.example.alex.herome.fragments.BackstoryFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/hero_bg_gradient"
+        android:orientation="vertical">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#253748"
+            android:minHeight="?attr/actionBarSize">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/top_banner_bar" />
+
+        </android.support.v7.widget.Toolbar>
+
+        <TextView
+            android:id="@+id/heroNameTxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="9dp"
+            android:text="Hero Name"
+            android:textAllCaps="true"
+            android:textColor="#FAC740"
+            android:textSize="27sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/backstoryTxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:alpha="1"
+            android:elevation="0dp"
+            android:ems="10"
+            android:inputType="textMultiLine|textPersonName"
+            android:paddingBottom="30dp"
+            android:paddingLeft="10dp"
+            android:text="Insert backstory here"
+            android:textColor="#fff" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:capitalize="characters"
+            android:text="PRIMARY POWER"
+            android:textColor="#fff" />
+
+        <Button
+            android:id="@+id/primaryPowerBtn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/hero_button"
+            android:drawableLeft="@drawable/super_man_crest"
+            android:paddingLeft="9dp"
+            android:text="Flight"
+            android:textColor="#FAC740" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:capitalize="characters"
+            android:text="SECONDARY POWER"
+            android:textColor="#fff" />
+
+        <Button
+            android:id="@+id/secondaryPowerBtn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/hero_button"
+            android:drawableLeft="@drawable/super_man_crest"
+            android:paddingLeft="9dp"
+            android:text="Flight"
+            android:textColor="#FAC740" />
+
+        <Button
+            android:id="@+id/startOverBtn"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/hero_solid_button"
+            android:backgroundTint="#FAC740"
+            android:text="START OVER"
+            android:textColor="#000" />
+
+    </LinearLayout>
+
+</FrameLayout>

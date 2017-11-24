@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\spiderweb.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\src\\main\\res\\drawable-hdpi\\spiderweb.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\item_selected.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\src\\main\\res\\drawable-hdpi\\item_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\born_with_them_powers.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\src\\main\\res\\drawable-hdpi\\born_with_them_powers.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\flight_option.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\src\\main\\res\\drawable-hdpi\\flight_option.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rocket.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\src\\main\\res\\drawable-hdpi\\rocket.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\lightning.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\src\\main\\res\\drawable-hdpi\\lightning.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\super_strength_option.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\src\\main\\res\\drawable-hdpi\\super_strength_option.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start_over_button.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\src\\main\\res\\drawable-hdpi\\start_over_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\top_banner_bar.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\src\\main\\res\\drawable-hdpi\\top_banner_bar.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\heroes.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\src\\main\\res\\drawable-hdpi\\heroes.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\laser_vision.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\src\\main\\res\\drawable-hdpi\\laser_vision.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\genetic_mutation_powers.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\src\\main\\res\\drawable-hdpi\\genetic_mutation_powers.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_bg.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\src\\main\\res\\drawable-hdpi\\app_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\turtle_power_option.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\src\\main\\res\\drawable-hdpi\\turtle_power_option.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\superman_crest.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\src\\main\\res\\drawable-hdpi\\superman_crest.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\laser_vision_option.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\src\\main\\res\\drawable-hdpi\\laser_vision_option.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\web_slinging_option.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\src\\main\\res\\drawable-hdpi\\web_slinging_option.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\show_backstory_button.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\src\\main\\res\\drawable-hdpi\\show_backstory_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\super_strength.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\src\\main\\res\\drawable-hdpi\\super_strength.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\big_superman_logo.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\src\\main\\res\\drawable-hdpi\\big_superman_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\turtle_power.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\src\\main\\res\\drawable-hdpi\\turtle_power.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\lightning_option.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\src\\main\\res\\drawable-hdpi\\lightning_option.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\atomic.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\src\\main\\res\\drawable-hdpi\\atomic.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\thors_hammer.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\src\\main\\res\\drawable-hdpi\\thors_hammer.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_base.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\src\\main\\res\\drawable-hdpi\\button_base.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\choose_powers_button.png",
+        "source": "C:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\src\\main\\res\\drawable-hdpi\\choose_powers_button.png"
+    }
+]
