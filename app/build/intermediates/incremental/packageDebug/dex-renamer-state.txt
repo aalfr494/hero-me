@@ -1,7 +1,7 @@
-#Thu Nov 23 21:12:46 CST 2017
+#Sat Nov 25 13:31:35 CST 2017
 base.0=C\:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b3ba6be5d2a2424dcf9c9592165c392ccbcb6d17
-renamed.1=classes2.dex
-renamed.0=classes.dex
+renamed.1=classes.dex
+renamed.0=classes2.dex
 file.1=C\:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9b963cd473138428c78c354713d7532c7dd0a2d9\\classes.dex
 base.1=C\:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9b963cd473138428c78c354713d7532c7dd0a2d9
 file.0=C\:\\Users\\Alex\\AndroidStudioProjects\\HeroMe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b3ba6be5d2a2424dcf9c9592165c392ccbcb6d17\\classes.dex
